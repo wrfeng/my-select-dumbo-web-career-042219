@@ -7,5 +7,5 @@ def my_select(collection)
     i += 1
   end
   
-
-end
+  arr
+end 
